@@ -1,0 +1,28 @@
+body{
+  margin: 0px;
+  height: 100%;
+  width: 100% !important;
+  background-color: silver;
+}
+
+.one{ 
+  height: 150px;
+  width: 100%;
+  background-color:rgb(81, 78, 78);
+}
+
+.main-content{
+  background-color: white;
+  height: 620px;
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 0px;
+}
+
+footer{
+  height: 80px;
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color:black
+}
